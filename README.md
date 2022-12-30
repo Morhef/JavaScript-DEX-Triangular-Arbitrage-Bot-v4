@@ -12,7 +12,7 @@ I would consider that a success, everything in this project is open source I hav
 This is the only official github for the triangle Arbitrage version 4 do not pay for it it is free and very simple to run.
  I'm going to go on now by step by step on how to run it I've also made a YouTube video here for simple visual instructions.
  
-https://www.youtube.com/watch?v=UCpt6XUND-w&feature=youtu.be
+https://www.youtube.com/watch?v=UCpt6XUND-w
  
 you can download the zip file of it here
 
