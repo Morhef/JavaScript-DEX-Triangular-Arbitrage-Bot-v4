@@ -7,7 +7,7 @@ I was born in the Bronx I now live in Connecticut where I run a small software d
 
 This is an open source project that I wrote and I'm working on right now it's fully functional and seems to be very effective.
 It looks for triangular Arbitrage between multiple decentralized exchanges calculates to see if there's a profit if it detects a profit it will execute the trade
-well giving you the profit. I've test ran it for 30 days for a closed test run my starting ethereum was 0.5  after the 30 days the theorem that was in the wallet was 12.3479 eth. 
+well giving you the profit. I've test ran it for 30 days for a closed test run my starting ethereum was 1.89  after the 30 days the theorem that was in the wallet was 23.62 eth. 
 I would consider that a success, everything in this project is open source I have been told that other characters have copied my project and is charging for it.
 This is the only official github for the triangle Arbitrage version 4 do not pay for it it is free and very simple to run.
  I'm going to go on now by step by step on how to run it I've also made a YouTube video here for simple visual instructions.
