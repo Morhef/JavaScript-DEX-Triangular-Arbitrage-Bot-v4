@@ -41,7 +41,7 @@ Step 3.
 
 and configure the settings and save the file
 
-<img src="configyoursettings.png">
+<img src="confige.png">
 
 Step 4.
 
